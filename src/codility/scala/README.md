@@ -1,5 +1,3 @@
-# Codility exercises in scala
-
 ## Binary Gap
 
 #### Task description
