@@ -5,7 +5,7 @@ package codility.scala
  */
 object BinaryGap extends App {
 
-  // Max score 98%
+  // Max score 100%
   object Solution {
 
     final val BIT_1 = "1"
