@@ -7,3 +7,6 @@ Exercises solved:
   + Binary Gap
 - Arrays: 
   + Cyclic Rotation
+  + Odd Occurrences In Array
+- Time Complexity
+  + Frog Jmp
