@@ -1,4 +1,4 @@
-package codility.scala
+package codility.scala.iterations
 
 /**
  * Finds the longest sequence of zeros in binary representation of an integer.
