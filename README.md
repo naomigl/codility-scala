@@ -3,4 +3,7 @@
 Solutions for codility exercises in Scala.
 
 Exercises solved:
-- Binary Gap
+- Iterations: 
+  + Binary Gap
+- Arrays: 
+  + Cyclic Rotation
