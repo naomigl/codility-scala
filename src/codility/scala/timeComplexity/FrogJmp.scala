@@ -1,8 +1,5 @@
 package codility.scala.timeComplexity
 
-/**
- * Finds the longest sequence of zeros in binary representation of an integer.
- */
 object FrogJmp extends App {
 
   // Max score 100%

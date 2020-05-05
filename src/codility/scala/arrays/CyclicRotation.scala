@@ -1,8 +1,5 @@
 package codility.scala.arrays
 
-/**
- * Finds the longest sequence of zeros in binary representation of an integer.
- */
 object CyclicRotation extends App {
 
   // Max score 100%

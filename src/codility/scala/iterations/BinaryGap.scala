@@ -1,8 +1,5 @@
 package codility.scala.iterations
 
-/**
- * Finds the longest sequence of zeros in binary representation of an integer.
- */
 object BinaryGap extends App {
 
   // Max score 100%
